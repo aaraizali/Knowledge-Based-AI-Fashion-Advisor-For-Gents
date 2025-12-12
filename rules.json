@@ -1,0 +1,40 @@
+{
+  "rules": [
+    {
+      "id": 1,
+      "weather": "hot",
+      "occasion": "casual",
+      "body_type": "slim",
+      "style": "Classic",
+      "colors": ["White", "Beige"],
+      "top": "White Cotton Shirt",
+      "bottom": "Khaki Chinos",
+      "shoes": "White Sneakers",
+      "accessories": "Minimal Watch"
+    },
+    {
+      "id": 2,
+      "weather": "mild",
+      "occasion": "formal",
+      "body_type": "athletic",
+      "style": "Classic",
+      "colors": ["Blue", "Navy"],
+      "top": "Light Blue Dress Shirt",
+      "bottom": "Navy Dress Pants",
+      "shoes": "Brown Derby Shoes",
+      "accessories": "Leather Belt"
+    },
+    {
+      "id": 3,
+      "weather": "cold",
+      "occasion": "party",
+      "body_type": "heavy",
+      "style": "Trendy",
+      "colors": ["Black", "Grey"],
+      "top": "Black Slim-Fit Sweater",
+      "bottom": "Dark Blue Jeans",
+      "shoes": "Chelsea Boots",
+      "accessories": "Leather Jacket"
+    }
+  ]
+}
